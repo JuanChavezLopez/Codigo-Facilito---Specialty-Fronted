@@ -1,0 +1,15 @@
+.contenedor-posicionado{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background: blue;
+}
+
+.elemento{
+    background: red;
+    width: 200px;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    left: 200px;
+}
